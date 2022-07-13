@@ -1,0 +1,28 @@
+.Navbar{
+    font-family: 'poppins' sans-serif;
+    flex-wrap: wrap;
+}
+.logo{
+    color: #1a1a1a;
+    font-weight: 600;
+    font-family: 'Shadows Into Light', sans-serif;
+    font-size: 2rem;
+}
+.nav-link{
+    color: #806a41;
+    font-weight: 400;
+}
+.Navbar .btn{
+    background-color: #806a41;
+    border-color: #eee;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: center;
+}
+.cart span{
+    padding-left:0.5rem;
+}
+
