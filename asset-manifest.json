@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/ecommerceartisan/static/css/main.100e37d2.css",
+    "main.js": "/ecommerceartisan/static/js/main.e71abca5.js",
+    "static/js/787.a60a6e5e.chunk.js": "/ecommerceartisan/static/js/787.a60a6e5e.chunk.js",
+    "static/media/mesa7.jpg": "/ecommerceartisan/static/media/mesa7.2f1c6ee8d11db585301f.jpg",
+    "static/media/mesa4.jpg": "/ecommerceartisan/static/media/mesa4.d7d3ff8182a8679af2bd.jpg",
+    "static/media/sillon3.jpg": "/ecommerceartisan/static/media/sillon3.dbb85839eedb23af6a2f.jpg",
+    "static/media/silla6.jpg": "/ecommerceartisan/static/media/silla6.c36717506717f655ff1e.jpg",
+    "static/media/mesa6.jpg": "/ecommerceartisan/static/media/mesa6.72d1146b488f750ec82c.jpg",
+    "static/media/silla7.jpg": "/ecommerceartisan/static/media/silla7.e6a23ad3b18690609599.jpg",
+    "static/media/mesa5.jpg": "/ecommerceartisan/static/media/mesa5.0d6f4a6643ae253f5dfe.jpg",
+    "static/media/silla5.jpg": "/ecommerceartisan/static/media/silla5.4446e551258116dec325.jpg",
+    "static/media/carousel4.jpg": "/ecommerceartisan/static/media/carousel4.be872361923a91cce236.jpg",
+    "static/media/silla4.jpg": "/ecommerceartisan/static/media/silla4.664cdff27fbb9be57aac.jpg",
+    "static/media/carousel1.jpg": "/ecommerceartisan/static/media/carousel1.8ccd15dba59944a57b22.jpg",
+    "static/media/mesa2.jpg": "/ecommerceartisan/static/media/mesa2.3067449982df09b45783.jpg",
+    "static/media/silla3.jpg": "/ecommerceartisan/static/media/silla3.3235e00ab9c4a9254556.jpg",
+    "static/media/carousel2.jpg": "/ecommerceartisan/static/media/carousel2.f148db917d7dae327b15.jpg",
+    "static/media/mesa1.jpg": "/ecommerceartisan/static/media/mesa1.a684a5a9c99a1ea7c097.jpg",
+    "static/media/silla1.jpg": "/ecommerceartisan/static/media/silla1.2c7183a3c2c37ad70b6f.jpg",
+    "static/media/sillon7.jpg": "/ecommerceartisan/static/media/sillon7.f14d1b1a75bc779e7981.jpg",
+    "static/media/silla2.jpg": "/ecommerceartisan/static/media/silla2.8c111848a79924104279.jpg",
+    "static/media/sillon4.jpg": "/ecommerceartisan/static/media/sillon4.41873cd4dbedda2c1124.jpg",
+    "static/media/sillon1.jpg": "/ecommerceartisan/static/media/sillon1.d4af66ab1e091d01dec0.jpg",
+    "static/media/sillon6.jpg": "/ecommerceartisan/static/media/sillon6.19ee0a367a198dd97857.jpg",
+    "static/media/mesa3.jpg": "/ecommerceartisan/static/media/mesa3.827b04bb768a5ab47812.jpg",
+    "static/media/sillon2.jpg": "/ecommerceartisan/static/media/sillon2.d7bc5fdcd9ead19def74.jpg",
+    "static/media/sillon5.jpg": "/ecommerceartisan/static/media/sillon5.82ebd614fc76c0207b57.jpg",
+    "index.html": "/ecommerceartisan/index.html",
+    "main.100e37d2.css.map": "/ecommerceartisan/static/css/main.100e37d2.css.map",
+    "main.e71abca5.js.map": "/ecommerceartisan/static/js/main.e71abca5.js.map",
+    "787.a60a6e5e.chunk.js.map": "/ecommerceartisan/static/js/787.a60a6e5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100e37d2.css",
+    "static/js/main.e71abca5.js"
+  ]
+}
